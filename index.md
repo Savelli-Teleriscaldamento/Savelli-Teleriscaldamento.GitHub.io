@@ -7,11 +7,10 @@ Ti è utile quello che leggi?
  - #01
 
 DIMENSIONAMENTO
+Numero utenti e quantità significative:
 
 <pre>
 <code>
-
-Numero utenti e quantità significative: 20.000 utenti, altro.
-
+20.000 utenti, altro.
 </code>
 </pre>
