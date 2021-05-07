@@ -1,9 +1,8 @@
-Se ti è utile quello che leggi, 
-mandami una e-mail a savelli.teleriscaldamento@gmail.com
-
+Ti è utile quello che leggi?
+<mailto:savelli.teleriscaldamento@gmail.com>mandami un e-mail!</mailto>
+---
 
 #01
 
-*DIMENSIONAMENTO*
- 
-numero utenti e quantità significative: 20.000 utenti, altro.
+*DIMENSIONAMENTO* 
+Numero utenti e quantità significative: 20.000 utenti, altro.
