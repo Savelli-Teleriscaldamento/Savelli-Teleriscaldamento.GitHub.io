@@ -4,9 +4,7 @@ Ti è utile quello che leggi?
 ------
 *Capitoli*
 
- - #01
-
-DIMENSIONAMENTO
+ - #01 DIMENSIONAMENTO
 
 Numero utenti e quantità significative:
 
