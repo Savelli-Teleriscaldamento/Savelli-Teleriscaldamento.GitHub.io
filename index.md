@@ -1,1 +1,1 @@
-<h2Domande e Risposte</h2>
+<h2>Domande e Risposte</h2>
