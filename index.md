@@ -1,15 +1,14 @@
-Ti è utile quello che leggi? 
+Ti è utile? 
 <a href="mailto:savelli.teleriscaldamento@gmail.com"> savelli.teleriscaldamento@gmail.com</a>.
 
 ------
-*Capitoli*
 
  - #01 DIMENSIONAMENTO
 
 Numero utenti e quantità significative:
 
-<pre>
 <code>
-20.000 utenti, altro.
-</code>
-</pre>
+Prendiamo in Italia l'esempio di <https://www.a2a.eu/it/citta2a-teleriscaldamento-a2a-piu-case-calde-sostenibili-infografica>
+
+E in Europa < https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104437/study%20on%20efficient%20dhc%20systems%20in%20the%20eu%20-dec2016_final%20-%20public%20report6.pdf>
+<code>
