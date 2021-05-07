@@ -1,5 +1,4 @@
-Ti è utile? 
-<a href="mailto:savelli.teleriscaldamento@gmail.com"> savelli.teleriscaldamento@gmail.com</a>.
+Ti è utile? <a href="mailto:savelli.teleriscaldamento@gmail.com">savelli.teleriscaldamento@gmail.com</a>.
 
 ------
 
