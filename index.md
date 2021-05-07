@@ -1,5 +1,6 @@
 Ti è utile quello che leggi?
-<mailto:savelli.teleriscaldamento@gmail.com>mandami un e-mail!</mailto>
+<a mailto:savelli.teleriscaldamento@gmail.com>
+mandami un e-mail!</a>
 ---
 
 #01
