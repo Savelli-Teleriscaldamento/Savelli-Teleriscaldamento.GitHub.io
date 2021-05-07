@@ -8,8 +8,10 @@ Ti è utile quello che leggi?
 
 DIMENSIONAMENTO
 
+<pre>
 <code>
-<br>
+
 Numero utenti e quantità significative: 20.000 utenti, altro.
-<br>
+
 </code>
+</pre>
