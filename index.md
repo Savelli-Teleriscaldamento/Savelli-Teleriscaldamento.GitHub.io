@@ -15,8 +15,8 @@ Esempi in <a href="https://www.a2a.eu/it/citta2a-teleriscaldamento-a2a-piu-case-
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "854a4b14fb1e4ee8bf3211c5d2fee090", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
+			content:{location: {url: ""}},
+			metaData:{fileName: "Introduzione.pdf.pdf"}
 		}, {embedMode: "IN_LINE"});
 	});
 </script>
