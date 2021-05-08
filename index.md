@@ -10,5 +10,5 @@ Esempi in <a href="https://www.a2a.eu/it/citta2a-teleriscaldamento-a2a-piu-case-
 
 
 <object data="Introduzione.pdf.pdf" type="application/pdf">
-    <iframe src="https://docs.google.com/viewer?url=Introduzione.pdf.pdf&embedded=true"></iframe>
+    <iframe src="Introduzione.pdf.pdf"></iframe>
 </object>
