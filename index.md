@@ -11,7 +11,7 @@ Esempi in <a href="https://www.a2a.eu/it/citta2a-teleriscaldamento-a2a-piu-case-
 
  - 01.1 DEFINIZIONE
 
-<pre><code>
+<code>
 
 1.1: definizione
 1. Il Teleriscaldamento (“TLR”) è una soluzione alternativa per la produzione di acqua calda igienico-sanitaria e il riscaldamento degli edifici residenziali, terziari e commerciali, basata sulla produzione centralizzata di calore mediante una centrale termica, un impianto di cogenerazione16 o una sorgente geotermica e la sua trasmissione, mediante una rete di tubazioni in cui scorre un appropriato fluido di trasporto (vapore o, più comunemente, acqua calda o surriscaldata17), ad un insieme di utenti spazialmente concentrati (la rete di distribuzione locale del calore), ma distanti anche alcuni chilometri dalla fonte di produzione del calore.
@@ -85,4 +85,3 @@ Infine, il TLR fornisce un modo per impiegare il calore generato dall’inceneri
 La dimensione dei benefici indicati cambia caso per caso e va paragonata ai costi di costruzione ed esercizio della rete di TLR.
 
 </code>
-</pre>
