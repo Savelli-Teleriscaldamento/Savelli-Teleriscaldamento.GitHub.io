@@ -22,7 +22,7 @@ Lo sfruttamento di risorse energetiche locali può costituire un beneficio ambie
 16 Per “cogenerazione” si intende la produzione congiunta di elettricità e calore. La produzione di elettricità produce sempre calore; una centrale cogenerativa, tuttavia, è in grado di recuperare questo calore e fornirlo ai consumatori a fini di riscaldamento.
 17 Per “acqua surriscaldata” si intende acqua ad una temperatura non inferiore a 120°, mantenuta ad una pressione tale da evitarne la vaporizzazione. L’uso dell’acqua surriscaldata è economicamente più vantaggioso di quello del vapore, consentendo un contenuto termico della rete diverse volte superiore a quello di una rete alimentata a vapore, a parità di investimento (cfr. Calza F. (a cura di), Manuale degli impianti termici e idrici, Tecniche Nuove, 2005, p. 5-44).
 18 Il riferimento alla non discriminazione è contenuto nell’ art. 2, comma 3, lett. a) del decreto 24 ottobre 2005 (Direttive per la regolamentazione dell’emissione dei certificati verdi alle produzioni di energia di cui all’articolo 1, comma 71, della legge 23 agosto 2004, n. 239).
-  24
+  
 
 4. E’ controversa19 l’inclusione nelle reti di TLR urbano propriamente dette dei sistemi di produzione centralizzata e distribuzione di calore quali (i) la rete interna di stabilimento industriale destinata al trasporto di calore parzialmente o totalmente destinato alla climatizzazione degli edifici di esso facenti parte, (ii) una rete interna ad un complesso edilizio privato (supercondominio, complesso di edilizia popolare), (iii) una rete interna ad un complesso terziario-commerciale, (iv) una rete al servizio esclusivo di un complesso ospedaliero.
 Alcune tipologie di tali sistemi centralizzati risultano storicamente incluse nelle rilevazioni dell’AIRU, perché avrebbero dovuto costituire i nuclei di reti di TLR vere e proprie, ma la maggior parte non lo sono.
@@ -33,9 +33,9 @@ Alcune tipologie di tali sistemi centralizzati risultano storicamente incluse ne
 La rete di TLR è quindi una rete chiusa, connessa all’impianto (o agli impianti) di generazione del calore attraverso una doppia rete di tubature.
 8. Come evidenziato in Figura 1, le componenti principali di un sistema di teleriscaldamento sono: una centrale termica, ove viene prodotto il calore, una rete di trasporto e distribuzione, costituita da speciali condotte sotterranee, e un insieme di sottocentrali d’utenza, dove è posto uno scambiatore di calore.
 19 Cfr. Bottio I., Caminiti N.M., Gangale F., Stefanoni M., Magnelli T., Teleriscaldamento e sistemi energetici integrati, ENEA, 2008.
- 25
 
-Figura 1 – Rappresentazione schematica di un sistema di teleriscaldamento
+<img src="5C4B8269-FD8F-4CBB-B5CC-2010150ECA48.jpeg"></img>
+
  9. Normalmente la rete è alimentata da una centrale di generazione che fornisce il carico di base e può quindi funzionare in maniera efficiente, alla quale vengono affiancate una o più caldaie di integrazione e riserva – costituite sempre da impianti di sola generazione calore – destinate a coprire le punte o eventuali guasti alla centrale principale. Il dimensionamento e il numero delle centrali di generazione dipende, oltre che dalla domanda complessiva, dall’estensione della rete e dalla densità della domanda: reti più estese con domanda meno densa possono richiede più caldaie di integrazione, per far giungere la necessaria quantità di calore a tutti gli utenti.
 10. Per generare calore può essere utilizzata una grande varietà di combustibili: gas naturale, biomasse, rifiuti solidi urbani, carbone, olio combustibile. Il calore può anche essere prodotto da terzi (p.es., impianti industriali) o da fonti naturali (p.es., fenomeni geotermici) e poi convogliato nella rete di distribuzione.
 11. Gli impianti di generazione del vapore possono essere di due tipi: semplici - caldaie che producono esclusivamente calore, utilizzate solitamente solo nei primi anni di avviamento, quando l’utenza è in fase di acquisizione, mentre a regime sono usati come generatori di integrazione (per coprire i picchi di richiesta termica) o di riserva – o combinati – impianti costituiti da gruppi che
