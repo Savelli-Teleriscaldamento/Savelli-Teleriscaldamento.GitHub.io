@@ -1,3 +1,6 @@
+[![](7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)](https://savelli-teleriscaldamento.github.io/7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)
+*Schema di economia energetica circolare con il teleriscaldamento a freddo (Cogeme)
+da: ![infobuildenergia.it](https://www.infobuildenergia.it/approfondimenti/teleriscaldamento-a-bassa-temperatura/?hcb=1)
 
 1. Introduzione
 
@@ -17,4 +20,3 @@
 
 ----
 
-[![](7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)](https://savelli-teleriscaldamento.github.io/7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)
