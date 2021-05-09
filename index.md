@@ -1,3 +1,5 @@
+DOWNLOAD :: ![DOWNLOAD](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104437/study%20on%20efficient%20dhc%20systems%20in%20the%20eu%20-dec2016_final%20-%20public%20report6.pdf)
+
 [![](7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)](https://savelli-teleriscaldamento.github.io/7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)
 *Schema di economia energetica circolare con il teleriscaldamento a freddo (Cogeme)*
 da: <a href="https://www.infobuildenergia.it/approfondimenti/teleriscaldamento-a-bassa-temperatura/?hcb=1">infobuildenergia.it</a>
