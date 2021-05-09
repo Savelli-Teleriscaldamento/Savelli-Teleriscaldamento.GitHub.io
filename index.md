@@ -8,4 +8,5 @@ Numero utenti e quantità significative:
 
 Esempi in <a href="https://www.a2a.eu/it/citta2a-teleriscaldamento-a2a-piu-case-calde-sostenibili-infografica">Italia</a>, e in <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC104437/study%20on%20efficient%20dhc%20systems%20in%20the%20eu%20-dec2016_final%20-%20public%20report6.pdf">Europa</a>.
 
-[![](Intro.jpg)](https://savelli-teleriscaldamento.github.io/Intro.jpg)
+[![](Intro.jpg)](https://www.qualenergia.it/sites/default/files/articolo-doc/indagine%20teleriscaldamento.pdf)
+(clicca sull'immagine per il .pdf originale)
