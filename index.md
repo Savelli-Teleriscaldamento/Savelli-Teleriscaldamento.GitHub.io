@@ -2,6 +2,7 @@
 *Schema di economia energetica circolare con il teleriscaldamento a freddo (Cogeme)*
 da: <a href="https://www.infobuildenergia.it/approfondimenti/teleriscaldamento-a-bassa-temperatura/?hcb=1">infobuildenergia.it</a>
 
+----
 1. Introduzione
 
 1.1 definizione
