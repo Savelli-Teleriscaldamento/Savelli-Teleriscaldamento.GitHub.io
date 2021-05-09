@@ -32,4 +32,6 @@ Altre letture:
 
  - :: <a href="https://www.gruppoiren.it/documents/21402/69847/TP_termoregolazione_DEF.pdf/23b9e880-4f63-407d-837c-43b7d3fa4522">Linee guida alla progettazione degli impianti di riscaldamento secondari serviti dalla rete di teleriscaldamento con particolare riferimento all’integrazione dei sistemi (impiantistici) esistenti con i sistemi di termoregolazione e contabilizzazione individuale del calore.</a>
 
+----
 
+![](1B37B2A8-3C3E-4817-965E-B3ECCD833BB4.jpeg)
