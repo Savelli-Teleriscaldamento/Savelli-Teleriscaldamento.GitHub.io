@@ -14,3 +14,7 @@
 [![](intro.jpg)](https://www.qualenergia.it/sites/default/files/articolo-doc/indagine%20teleriscaldamento.pdf)
 
 *(clicca sull'immagine per il .pdf originale)*
+
+----
+
+![](7541A156-6DF2-48DF-A7A7-F648BDB41EA9.jpeg)
