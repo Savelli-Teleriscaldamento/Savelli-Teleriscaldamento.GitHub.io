@@ -34,4 +34,4 @@ Altre letture:
 
 ----
 
-![](1B37B2A8-3C3E-4817-965E-B3ECCD833BB4.jpeg)
+[![](1B37B2A8-3C3E-4817-965E-B3ECCD833BB4.jpeg)](https://savelli-teleriscaldamento.github.io/1B37B2A8-3C3E-4817-965E-B3ECCD833BB4.jpeg)
